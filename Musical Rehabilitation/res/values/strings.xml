@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidBuildingMusicPlayerActivity!</string>
+    <string name="app_name">Musical Rehabilitation</string>
+     <string name="timer1">La sesión comenzará en 5 segundos</string>
+     <string name="wait">Espere que se cargen los datos</string>
+
+</resources>
