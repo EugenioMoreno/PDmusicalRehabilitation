@@ -1,0 +1,1 @@
+Before doing any exercise, visit your doctor
